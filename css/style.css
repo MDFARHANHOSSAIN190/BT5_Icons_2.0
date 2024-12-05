@@ -1,0 +1,54 @@
+h1{
+    box-sizing: border-box;
+    text-align: center;
+    color: white;
+    margin-top: 20px;
+    background-color:#989898;
+   border-bottom: 1px solid white;
+    
+}
+.container{
+	text-align: center;
+}
+
+ul {
+    list-style-type: none;
+    padding: 0;
+    margin: 20px;
+}
+
+li {
+    margin-bottom: 10px;
+}
+
+i {
+    font-size: 60px;
+    
+    margin-right: 10px; 
+}
+a:hover{
+   cursor: pointer;
+   color: aliceblue;
+}
+.container .fb{
+	color: blue;
+}
+
+.container .ig{
+	color:red;
+}
+.container .tw{
+	color: #000000;
+}
+.container .wp{
+	color: #008000;
+}
+.container .yt{
+	color: red;
+}
+.container .ld{
+	color: skyblue;
+}
+.container .gt{
+	color:#000000;
+}
